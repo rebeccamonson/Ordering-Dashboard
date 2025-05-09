@@ -1,3 +1,7 @@
+Disclaimer:
+This project uses data from real-world experience but includes modified and anonymized data. All surgeon names, company logos, and identifiable information (e.g., item prices and PO numbers) have been altered or removed to protect confidentiality and comply with organizational privacy standards.
+
+
 ## Ordering Data Dashboard Creation
 
 <p align="center">
